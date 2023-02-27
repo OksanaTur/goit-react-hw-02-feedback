@@ -1,6 +1,6 @@
- import styled from 'styled-components';
+import styled from 'styled-components';
 
-export const SectionTitle = styled.h2`
- font - size: 4rem;
+export const Title = styled.h2`
+ font-size: 54px;
  text-align: center;
 `;
